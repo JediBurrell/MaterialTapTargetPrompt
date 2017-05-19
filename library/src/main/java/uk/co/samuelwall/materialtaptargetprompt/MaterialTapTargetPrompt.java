@@ -2023,7 +2023,6 @@ public class MaterialTapTargetPrompt
          * create and display the prompt.
          * </p>
          * <p>
-         * Will return {@link null} if a valid target has not been set or the primary text is {@link null}.
          * To check that a valid target has been set call {@link #isTargetSet()}.
          * </p>
          */
@@ -2156,7 +2155,6 @@ public class MaterialTapTargetPrompt
          *     prompt.show();
          * </pre>
          * <p>
-         * Will return {@link null} if a valid target has not been set or the primary text is {@link null}.
          * To check that a valid target has been set call {@link #isTargetSet()}.
          * </p>
          */
