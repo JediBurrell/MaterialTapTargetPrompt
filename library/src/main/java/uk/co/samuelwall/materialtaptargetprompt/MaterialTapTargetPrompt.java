@@ -1338,8 +1338,8 @@ public class MaterialTapTargetPrompt
             mFocalColourAlpha = a.getInt(R.styleable.PromptView_focalColourAlpha, 255);
 
             mIconDrawableColourFilter = a.getColor(R.styleable.PromptView_iconColourFilter, mBackgroundColour);
-            mIconDrawableTintList = a.getColorStateList(R.styleable.PromptView_iconTint);
-            mIconDrawableTintMode = parseTintMode(a.getInt(R.styleable.PromptView_iconTintMode, -1), PorterDuff.Mode.MULTIPLY);
+            mIconDrawableTintList = a.getColorStateList(R.styleable.PromptView_iconTintCompat);
+            mIconDrawableTintMode = parseTintMode(a.getInt(R.styleable.PromptView_iconTintModeCompat, -1), PorterDuff.Mode.MULTIPLY);
             mHasIconDrawableTint = true;
 
             final int targetId = a.getResourceId(R.styleable.PromptView_target, 0);

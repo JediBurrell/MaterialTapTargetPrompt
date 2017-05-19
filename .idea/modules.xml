@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialTapTargetPrompt.iml" filepath="$PROJECT_DIR$/MaterialTapTargetPrompt.iml" />
+      <module fileurl="file://C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\MaterialTapTargetPrompt.iml" filepath="C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\MaterialTapTargetPrompt.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/material-tap-target-prompt.iml" filepath="$PROJECT_DIR$/library/material-tap-target-prompt.iml" />
+      <module fileurl="file://C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\library\material-tap-target-prompt.iml" filepath="C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\library\material-tap-target-prompt.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\sample\sample.iml" filepath="C:\Users\JediB\Documents\Programming\android\MaterialTapTargetPrompt\sample\sample.iml" />
     </modules>
   </component>
 </project>
