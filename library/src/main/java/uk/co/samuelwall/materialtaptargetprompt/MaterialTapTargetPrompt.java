@@ -1292,7 +1292,6 @@ public class MaterialTapTargetPrompt
          *
          * The {@code themeResId} may be specified as {@code 0}
          * to use the parent {@code context}'s resolved value for
-         * {@link R.attr#MaterialTapTargetPromptTheme}.
          *
          * @param activity the activity to show the prompt within.
          * @param themeResId the resource ID of the theme against which to inflate
